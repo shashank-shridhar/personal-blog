@@ -49,3 +49,44 @@ h1 {
     margin-top: -200px;
 }
 
+.info h1 {
+    text-align: center;
+    margin-top: 12px;
+}
+
+#Logos {
+    display: flex;
+    
+}
+
+#rickRollIcon {
+    height: 200px;
+    width: 200px;
+    margin: 105px;
+    border: black solid 3px;
+    border-radius: 550px;
+}
+
+#socialsIcon {
+    height: 200px;
+    width: 200px;
+    margin: 105px;
+    border: black solid 3px;
+    border-radius: 550px;
+}
+
+#readIcon {
+    height: 200px;
+    width: 200px;
+    margin: 105px;
+    border: black solid 3px;
+    border-radius: 550px;
+}
+
+#contactIcon {
+    height: 200px;
+    width: 200px;
+    margin: 105px;
+    border: black solid 3px;
+    border-radius: 550px;
+}
